@@ -18,7 +18,7 @@ export default function AboutPage() {
             />
           </div>
 
-          <div className="w-full">
+          <div className="w-110">
             <div className="h-auto bg-white rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300 p-6">
               <h1
                 className="text-3xl font-extrabold mb-4 text-orange-900 border-b-2 border-gray-300 pb-2 
