@@ -18,7 +18,7 @@ export default function AboutPage() {
             />
           </div>
 
-          <div className="w-110">
+          <div className="w-90">
             <div className="h-auto bg-white rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300 p-6">
               <h1
                 className="text-3xl font-extrabold mb-4 text-orange-900 border-b-2 border-gray-300 pb-2 
@@ -32,9 +32,6 @@ export default function AboutPage() {
               <p className="text-lg">이름: 허다현</p>
               <p className="text-lg">학과: 정보보호학 전공 2학년</p>
               <p className="text-lg">학번: 92410990</p>
-              <p className="text-lg">생년월일: 2005년 12월 7일</p>
-              <p className="text-lg">연락처: 010-2399-0957</p>
-              <p className="text-lg">Email: coamos1110@gmail.com</p>
               <p className="text-lg">
                 <span className="mr-1">Github:</span>
                 <a
