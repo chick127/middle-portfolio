@@ -30,7 +30,7 @@ export default function AboutPage() {
 
               <div className="mt-4"></div>
               <p className="text-lg">이름: 허다현</p>
-              <p className="text-lg">학과: 정보보호학 전공 2학년</p>
+              <p className="text-lg">학과: 정보보호학 전공</p>
               <p className="text-lg">학번: 92410990</p>
               <p className="text-lg">
                 <span className="mr-1">Github:</span>
